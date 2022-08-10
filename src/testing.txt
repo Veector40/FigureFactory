@@ -1,0 +1,12 @@
+Triangle 23.0 4.0 24.0
+Triangle 23.0 43.0 24.0
+Rectangle 0.741622897470831 0.16750653708647378
+Triangle 3.0 4.0 4.0
+Square 5.0
+Square 0.5063450044990546
+Triangle 243.0 43.0 243.0
+Triangle 17.0 4.0 14.0
+Square 0.5584402955977131
+Triangle 5.0 2.0 4.0
+Circle 0.9548829948350237
+Triangle 2.0 4.0 5.0
